@@ -17,3 +17,16 @@ Geospatial Visualization using GIS Online helps the patients to find the health 
 The system can assign the patients to the best health care based on their needs
 
 
+## App Resources
+All the resources used for building the App is open-sourced.
+
+### Open Data
+City of Toronto
+
+### Tools
+GIS Online
+
+## Team
+Xuyang Han
+Aman Ullah
+Amirhossein
