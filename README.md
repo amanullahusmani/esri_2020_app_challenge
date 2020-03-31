@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Esri 2020 App Challenge - Toronto Health Care Query System
+This Toronto Health Care App can help you find the optimal health care for you. 
 
-You can use the [editor on GitHub](https://github.com/xuyangHan/esri_2020_app_challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Mission Statement
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Having a thorough Database, Smart Geospatial Mapping and Querying and Matching System about Toronto Health Care resources can be vital for every patient in need.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Health Care Database
+Health Care Database organizing all health resources available in Toronto can be essential for the patients in need
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Smart Mapping
+Geospatial Visualization using GIS Online helps the patients to find the health care available to them
 
-- Bulleted
-- List
+### Query and Matching System
+The system can assign the patients to the best health care based on their needs
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuyangHan/esri_2020_app_challenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
