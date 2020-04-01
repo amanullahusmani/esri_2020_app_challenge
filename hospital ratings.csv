@@ -1,0 +1,69 @@
+,Id,Facility Name,Address,Lat,Long,Average Waiting Time ,yelp ratings
+0,1,Rouge Valley Health System,"2867 Ellesmere Rd, Toronto, ON M1E 4B9",43.78008137,-79.20496101,,2.3
+1,2,"University Health Network, Toronto Rehabilitation Institute","130 Dunn Ave, Toronto, ON M6K 2R7",43.63499955,-79.43308309,,4.2
+2,3,Cliffcrest Health Centre,"2890 Kingston Rd, Toronto, ON M1M 1N5",43.72322978,-79.23515102,,5.0
+3,4,Golden Care Dental Services,"1571 Sandhurst Circle, Scarborough, ON M1V 5K2",43.80922073,-79.26931207,,4.2
+4,5,"Toronto, City of","160 Burough Dr, Toronto, ON M1P 4N8",43.77305144,-79.25648018,,4.4
+5,6,Dr. Monte Tator Family Dentistry,"1920 Weston Rd, Ste 211, Toronto, ON M9N 1W4",43.70030631,-79.51753005,,4.8
+6,7,HealthOne Medical Centre,"5292 Yonge St, North York, ON M2N 5P9",43.77241397,-79.41404281,,4.0
+7,8,Urban Volunteer Dental Clinic,"3000 Lawrence Ave E, Bldg A, 2nd Fl, Toronto, ON M1P 2V1",43.75530588,-79.24960024,,3.5
+8,9,Anishnawbe Health Toronto,"179 Gerrard St E, Toronto, ON M5A 2E5",43.66076509,-79.37311294,,4.5
+9,10,William Osler Health Centre,"101 Humber College Blvd, Toronto, ON M9V 1R8",43.72978344,-79.59869659,,2.4
+10,11,Evangel Hall,"552 Adelaide St W, Toronto, ON M5V 3W8",43.64556444,-79.40245643,,4.4
+11,12,George Brown College,"51 Dockside Dr, 3rd Fl, Toronto, ON M5A 0B6",43.64393878,-79.36546951,,3.7
+12,13,Humber River Hospital,"1235 Wilson Ave, Toronto, ON M3M 0B2",43.72425819,-79.48921562,,2.6
+13,14,Hospital for Sick Children,"555 University Ave, Toronto, ON M5G 1X8",43.65736357,-79.38743423,,4.1
+14,15,Humber River Hospital,"1235 Wilson Ave, Toronto, ON M3M 0B2",43.72425819,-79.48921562,,2.6
+15,16,Unison Health and Community Services,"12 Flemington Rd, Toronto, ON M6A 2N4",43.71952428,-79.44495529,,3.8
+16,17,Toronto Police Service,"Headquarters, 40 College St, Toronto, ON M5G 2J3",43.66134913,-79.38513967,,4.0
+17,18,Morgentaler Clinic,"727 Hillsdale Ave E, Toronto, ON M4S 1V4",43.707603999999996,-79.3763846,,3.1
+18,19,Mount Sinai Hospital,"Joseph and Wolf Lebovic Health Complex, 600 University Ave, Toronto, ON M5G 1X5",43.65752783,-79.39044186,,3.7
+19,20,North York General Hospital,"4001 Leslie St, Toronto, ON M2K 1E1",43.76961855,-79.36245333,,3.0
+20,21,Ontario. Ministry of Health and Long-Term Care,"Hepburn Block, 80 Grosvenor St, 10th FL, Toronto, ON M7A 2C4",43.66222472,-79.38851795,,3.6
+21,22,Parkdale Community Health Centre,"1229 Queen St W, Toronto, ON M6K 1L2",43.64183171,-79.42941892,,3.7
+22,23,"University Health Network, Toronto Rehabilitation Institute","550 University Ave, Toronto, ON M5G 2A2",43.65666162,-79.38995462,,4.2
+23,24,Trillium Health Partners,"150 Sherway Dr, Toronto, ON M9C 1A5",43.60929349,-79.56281022,,2.7
+24,25,Regent Park Community Health Centre,"465 Dundas St E, Toronto, ON M5A 2B2",43.65935605,-79.36565073,,3.8
+25,26,Runnymede Healthcare Centre,"625 Runnymede Rd, Toronto, ON M6S 3A3",43.66417366,-79.48112633,,3.8
+26,27,Scarborough Hospital,"3030 Birchmount Rd, Toronto, ON M1W 3W3",43.80189136,-79.30905396,,2.5
+27,28,Scarborough Hospital,"3050 Lawrence Ave E, Toronto, ON M1P 2V5",43.75614814,-79.24750191,,2.5
+28,29,St Joseph's Health Centre,"30 The Queensway, Toronto, ON M6R 1B5",43.63934991,-79.45009775,,2.9
+29,30,St Michael's Hospital,"30 Bond St, Toronto, ON M5B 1W8",43.65364689,-79.37767928,,3.5
+30,31,Sunnybrook Health Sciences Centre,"2075 Bayview Ave, Toronto, ON M4N 3M5",43.72193765,-79.37787537,,3.4
+31,32,Toronto East General Hospital,"825 Coxwell Ave, Toronto, ON M4C 3E7",43.68982341,-79.32495078,,2.8
+32,33,"University Health Network, Toronto General Hospital","200 Elizabeth St, Toronto, ON M5G 2C4",43.65922378,-79.38724522,,4.1
+33,34,"University Health Network, Toronto Western Hospital","399 Bathurst St, Toronto, ON M5T 2S8",43.65309479,-79.40568848,,3.4
+34,35,University of Toronto,"101 Elm St, Toronto, ON M5T 3A7",43.65644723,-79.38773074,,4.4
+35,36,Unison Health and Community Services,"1651 Keele St, Toronto, ON M6M 3W2",43.68348304,-79.47184385,,3.8
+36,37,TAIBU Community Health Centre,"27 Tapscott Rd, Unit 1, Toronto, ON M1B 4Y7",43.80670269,-79.22165739,,3.6
+37,38,North York General Hospital,"555 Finch Ave W, Toronto, ON M2R 1N5",43.77160183,-79.44737853,,3.0
+38,39,Unison Health and Community Services,"540 Finch Ave W, Toronto, ON M2R 1N7",43.77403792,-79.44513577,,3.8
+39,40,Rexdale Community Health Centre,"8 Taber Rd, Toronto, ON M9W 3A4",43.71931256,-79.57209076,,3.4
+40,41,Yonge Street Mission,"381 Yonge St, Toronto, ON M5B 1S1",43.65874847,-79.38156922,,4.3
+41,42,LAMP Community Health Centre,"185 Fifth St, Toronto, ON M8V 2Z5",43.60356473,-79.50343066,,4.3
+42,43,Stonegate Community Health Centre,"Stonegate Plaza, 150 Berry Rd, Toronto, ON M8Y 1W3",43.63816381,-79.48905572,,3.7
+43,44,Swansea Town Hall Community Centre,"95 Lavinia Ave, Toronto, ON M6S 3H9",43.64764979,-79.47787844,,4.1
+44,45,Holland Bloorview Kids Rehabilitation Hospital,"150 Kilgour Rd, Toronto, ON M4G 1R8",43.7184096,-79.37296299,,4.7
+45,46,Toronto Public Health,"277 Victoria St, 5th Fl, Toronto, ON M5B 1W2",43.65655891,-79.37933857,,2.8
+46,47,University Health Network,"Administration, 190 Elizabeth St, Toronto, ON M5G 2C4",43.658431,-79.38688155,,5.0
+47,48,Scarborough Hospital,"3050 Lawrence Ave E, Toronto, ON M1P 2V5",43.75614814,-79.24750191,,2.5
+48,49,Central Toronto Community Health Centres,"168 Bathurst St, Toronto, ON M5V 2R4",43.64661268,-79.40421718,,3.9
+49,50,Hospital for Sick Children,"Main Fl, Atrium, 555 University Ave, Toronto, ON M5G 1X8",43.65736357,-79.38743423,,4.1
+50,51,North York General Hospital,"4001 Leslie St, Toronto, ON M2K 1E1",43.76961855,-79.36245333,,3.0
+51,52,Mount Sinai Hospital,"600 University Ave, Toronto, ON M5G 1X5",43.65752783,-79.39044186,,3.7
+52,53,Humber River Hospital,"2111 Finch Ave W, Toronto, ON M3N 1N1",43.75496667,-79.52652557,,2.6
+53,54,Sunnybrook Health Sciences Centre,"2075 Bayview Ave, Toronto, ON M4N 3M5",43.72193765,-79.37787537,,3.4
+54,55,Toronto East General Hospital,"825 Coxwell Ave, Toronto, ON M4C 3E7",43.68982341,-79.32495078,,2.8
+55,56,"University Health Network, Toronto General Hospital","200 Elizabeth St, Toronto, ON M5G 2C4",43.65922378,-79.38724522,,4.1
+56,57,"University Health Network, Toronto Western Hospital","399 Bathurst St, Toronto, ON M5T 2S8",43.65309479,-79.40568848,,3.4
+57,58,William Osler Health Centre,"101 Humber College Blvd, Toronto, ON M9V 1R8",43.72978344,-79.59869659,,2.4
+58,59,Rouge Valley Health System,"2867 Ellesmere Rd, Toronto, ON M1E 4B9",43.78008137,-79.20496101,,2.3
+59,60,St Joseph's Health Centre,"30 The Queensway, Barnicke Wing, Toronto, ON M6R 1B5",43.63934991,-79.45009775,,2.9
+60,61,St Michael's Hospital,"30 Bond St, Toronto, ON M5B 1W8",43.65364689,-79.37767928,,3.5
+61,62,Scarborough Hospital,"3050 Lawrence Ave E, Toronto, ON M1P 2V5",43.75614814,-79.24750191,,2.5
+62,63,Scarborough Hospital,"3030 Birchmount Rd, Toronto, ON M1W 3W3",43.80189136,-79.30905396,,2.5
+63,64,Etobicoke Urgent Care Clinic,"25 Woodbine Downs Blvd, Unit 10, Toronto, ON M9W 6N5",43.73544992,-79.60582114,,2.3
+64,65,Toronto. Fire Services,"4330 Dufferin St, Toronto, ON M3H 5R9",43.76179084,-79.46653153,,3.3
+65,66,Yonge and St. Clair Dental Smile Centre,"2 Pleasant Blvd, Toronto, ON M4T 1J8",43.687399299999996,-79.3932554,,4.4
+66,67,Runnymede Healthcare Centre,"625 Runnymede Rd, Toronto, ON M6S 3A3",43.66417366,-79.48112633,,3.8
+67,68,Stonegate Community Health Centre,"150 Berry Rd, Toronto, ON M8Y 1W3",43.63816381,-79.48905572,,3.7
