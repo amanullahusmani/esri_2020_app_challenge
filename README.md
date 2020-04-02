@@ -24,7 +24,6 @@ The system can assign the patients to the best health care based on their needs
 All the resources used for building the App is open-sourced.
 
 ### Open Data
-City of Toronto
 
 Hospitals in Toronto region on google maps	https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	2020
 
