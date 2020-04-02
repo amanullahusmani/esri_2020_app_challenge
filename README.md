@@ -28,35 +28,28 @@ All the resources used for building the App is open-sourced.
 ### Data Sources
 |     Data     |      Source      |  Year |
 |----------|-------------|------|
-| Emergency Department (ED) |   [link](http://www.torontohealthprofiles.ca/a_dataTables.php?varTab=HPDtbl)  | (2013-2014) |
+| Emergency Department (ED) |   [link](http://www.torontohealthprofiles.ca/a_dataTables.php?varTab=HPDtbl)  | 2013-2014 |
 | General Hospitals in Toronto |   [link](https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	) |2020  |
 | Median waiting times |  [link](https://open.canada.ca/data/en/dataset/b783efd5-7be7-4989-942f-a0fcda8d3fb7	) |  |
 |Changing Landscape of Toronto’s Populatio  |  [link](https://www.toronto.ca/wp-content/uploads/2018/01/94fc-Toronto_Geographic-Trends_Web-Version.pdf) | 2016 |
 | Doctors Information |  [link](https://doctors.cpso.on.ca/?search=general) | 2020 |
 | NACRS and CIHI Free resources |  [link](https://www.cihi.ca/en/quick-stats) | 2020 |
-| NACRS Emergency Department Visits and Length of Stay |  [link](https://www.cihi.ca/sites/default/files/document/nacrs-2018-2019-quickstats-en-web_0.xlsx) |  (2018-2019) |
+| NACRS Emergency Department Visits and Length of Stay |  [link](https://www.cihi.ca/sites/default/files/document/nacrs-2018-2019-quickstats-en-web_0.xlsx) |  2018-2019 |
 | National Ambulatory Care Reporting System |  [link](https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata) |  |
 | Priority Procedures Knee and Hip Replacement |  [link](https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada) |  |
-| Injury and Trauma Stats |  [link](http://www.cihi.ca/sites/default/files/document/2017-2018-injury-and-trauma-quick-stats-en-web.xlsx) | (2017-2018) |
+| Injury and Trauma Stats |  [link](http://www.cihi.ca/sites/default/files/document/2017-2018-injury-and-trauma-quick-stats-en-web.xlsx) | 2017-2018 |
 | Wait time in ED "Chapter 4 Page 28" |  [link](https://www.hqontario.ca/portals/0/Documents/pr/measuring-up-2018-en.pdf) | 2018 |
 | Time Spent in Emergency |  [link](https://www.ontario.ca/page/time-spent-emergency-department) |  |
 
 
 ### Articles
-The real challenge to Canada’s health system is not wait times
-https://www.theglobeandmail.com/opinion/canada-must-address-the-problem-of-long-waits-for-medical-care/article34056251/	
 
-
-Commonwealth Fund Survey 2016	
-https://www.cihi.ca/en/commonwealth-fund-survey-2016	
-
-Charts and Numbers
-https://www.theglobeandmail.com/life/health-and-fitness/health/how-quickly-can-you-see-a-doctor-study-shows-canada-lags-behind-other-nations-on-timelyaccess/article34043606/
-
-
-Highlights Issue Doctor payments rise(2018)
-https://www.theglobeandmail.com/news/national/doctor-costs-rise-37-per-cent-in-2015-while-incomes-stall/article31503411/			
-
+|     Article     |      Source      |  Year |
+|----------|-------------|------|
+| The real challenge to Canada’s health system |   [link](https://www.theglobeandmail.com/opinion/canada-must-address-the-problem-of-long-waits-for-medical-care/article34056251/)  |  |
+| Commonwealth Fund Survey 	 |   [link](https://www.cihi.ca/en/commonwealth-fund-survey-2016	) |2016  |
+|Charts and Numbers 	 |   [link](https://www.theglobeandmail.com/life/health-and-fitness/health/how-quickly-can-you-see-a-doctor-study-shows-canada-lags-behind-other-nations-on-timelyaccess/article34043606/	) |2016  |
+| Highlights Issue Doctor payments rise 	 |   [link](https://www.theglobeandmail.com/news/national/doctor-costs-rise-37-per-cent-in-2015-while-incomes-stall/article31503411/) |2018  |
 
 
 
