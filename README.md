@@ -42,7 +42,6 @@ Wait Time (free)	Priority Procedures	Knee and Hip Replacement
 https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada				
 
 Injury and Trauma Stats(2017-2018)
-
 http://www.cihi.ca/sites/default/files/document/2017-2018-injury-and-trauma-quick-stats-en-web.xlsx	
 
 "Chapter 4 Page 28"	Waits in emergency
@@ -51,8 +50,8 @@ https://www.hqontario.ca/portals/0/Documents/pr/measuring-up-2018-en.pdf
 "Time Spent in Emergency"
 https://www.ontario.ca/page/time-spent-emergency-department			
 
-Doctors Info		CPSO
-https://doctors.cpso.on.ca/?search=general	2020	
+Doctors Information CPSO(2020)
+https://doctors.cpso.on.ca/?search=general		
 
 Median waiting times for specialized services	Median waiting times for specialized services, by type of service.	https://open.canada.ca/data/en/dataset/b783efd5-7be7-4989-942f-a0fcda8d3fb7	2001	
 
