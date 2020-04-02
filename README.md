@@ -1,6 +1,11 @@
 # Toronto Health Care Query System
 This Toronto Health Care App can help you find the optimal health care for you. 
 
+
+## Quick Start
+
+Check out <a href="https://xuyanghan.github.io/esri_2020_app_challenge/">Web App</a> to view the live demo site!
+
 ## Mission Statement
 
 Canada's motto is a mari usque ad mare (from sea to sea). In our beloved health-care system, sadly, our motto has become a mora usque ad moram (from wait to wait).
