@@ -26,13 +26,14 @@ The system can assign the patients to the best health care based on their needs
 All the resources used for building the App is open-sourced.
 
 ### Hospitals Data
-Emergency Department (ED) visits Toronto Health Profiles(2013-2014)	
+Emergency Department (ED) visits Toronto Health Profiles(2013-2014)
 http://www.torontohealthprofiles.ca/a_dataTables.php?varTab=HPDtbl		
 
-General	Hospitals in Toronto region on google maps(2020)	https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	
+General	Hospitals in Toronto region on google maps(2020)
+https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	
 
 					
-Median waiting times for specialized services, by type of service.
+Median waiting times for specialized services, by type of service
 https://open.canada.ca/data/en/dataset/b783efd5-7be7-4989-942f-a0fcda8d3fb7	
 
 
@@ -52,7 +53,8 @@ NACRS Emergency Department Visits and Length of Stay (2018-2019)
 https://www.cihi.ca/sites/default/files/document/nacrs-2018-2019-quickstats-en-web_0.xlsx		
 
 
-NACRS and CIHI	National Ambulatory Care Reporting System metadata and Canadian Institute for Health Information	https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata	
+NACRS and CIHI	National Ambulatory Care Reporting System metadata and Canadian Institute for Health Information
+https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata	
 
 
 Priority Procedures Knee and Hip Replacement
@@ -74,10 +76,10 @@ The real challenge to Canada’s health system is not wait times
 https://www.theglobeandmail.com/opinion/canada-must-address-the-problem-of-long-waits-for-medical-care/article34056251/	
 
 
-Commonwealth Fund Survey 2016		
+Commonwealth Fund Survey 2016	
 https://www.cihi.ca/en/commonwealth-fund-survey-2016	
 
-Charts and Numbers		
+Charts and Numbers
 https://www.theglobeandmail.com/life/health-and-fitness/health/how-quickly-can-you-see-a-doctor-study-shows-canada-lags-behind-other-nations-on-timelyaccess/article34043606/
 
 
