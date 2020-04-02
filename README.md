@@ -25,35 +25,62 @@ The system can assign the patients to the best health care based on their needs
 ## App Resources
 All the resources used for building the App is open-sourced.
 
-### Open Data
-
-Hospitals in Toronto region on google maps
-https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	2020
-
-Emergency Department (ED)	Toronto Health Profiles,	Toronto Neighbourhoods
+### Hospitals Data
+Emergency Department (ED) visits	Toronto Health Profiles	Toronto Neighbourhoods
 http://www.torontohealthprofiles.ca/a_dataTables.php?varTab=HPDtbl	2013-2014	
+
+General	Hospitals in Toronto	Hospitals search in Toronto region on google maps	https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	2020
+
+					
+Wait Time	Median waiting times for specialized services	Median waiting times for specialized services, by type of service.	https://open.canada.ca/data/en/dataset/b783efd5-7be7-4989-942f-a0fcda8d3fb7	2001
+
+
+### City of Toronto
+Population numbers	Changing Landscape of Toronto’s Population		https://www.toronto.ca/wp-content/uploads/2018/01/94fc-Toronto_Geographic-Trends_Web-Version.pdf	2016	
+
+### Doctors Information
+CPSO		https://doctors.cpso.on.ca/?search=general	2020	
+
+### NACRS and CIHI
+Quick Stats	NACRS and CIHI	Free resources	https://www.cihi.ca/en/quick-stats	2020
 
 
 Visits and Length	NACRS and CIHI	NACRS Emergency Department Visits and Length of Stay	https://www.cihi.ca/sites/default/files/document/nacrs-2018-2019-quickstats-en-web_0.xlsx	2018-2019	
 
-Wait Time (paid)	NACRS and CIHI	National Ambulatory Care Reporting System metadata and Canadian Institute for Health Information	https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata				
+
+Wait Time (paid)	NACRS and CIHI	National Ambulatory Care Reporting System metadata and Canadian Institute for Health Information	https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata	
+
 
 Wait Time (free)	Priority Procedures	Knee and Hip Replacement
-https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada				
+https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada	
 
-Injury and Trauma Stats(2017-2018)
-http://www.cihi.ca/sites/default/files/document/2017-2018-injury-and-trauma-quick-stats-en-web.xlsx	
+Injury and Trauma Stats	
+http://www.cihi.ca/sites/default/files/document/2017-2018-injury-and-trauma-quick-stats-en-web.xlsx	2017-2018	
 
-"Chapter 4 Page 28"	Waits in emergency
-https://www.hqontario.ca/portals/0/Documents/pr/measuring-up-2018-en.pdf
+### Health Quality Ontario
+Wait time in ED	"Chapter 4 Page 28"	Hospital Care
+https://www.hqontario.ca/portals/0/Documents/pr/measuring-up-2018-en.pdf	2018	
 
-"Time Spent in Emergency"
-https://www.ontario.ca/page/time-spent-emergency-department			
 
-Doctors Information CPSO(2020)
-https://doctors.cpso.on.ca/?search=general		
+"Time Spent in Emergency"	Time in ED	Doctor, Low Urgency, High Urgency, Admitted
+https://www.ontario.ca/page/time-spent-emergency-department		
 
-Median waiting times for specialized services	Median waiting times for specialized services, by type of service.	https://open.canada.ca/data/en/dataset/b783efd5-7be7-4989-942f-a0fcda8d3fb7	2001	
+### Articles
+Highlights Issue	Real challenge to Canada’s health system	The real challenge to Canada’s health system is not wait times	https://www.theglobeandmail.com/opinion/canada-must-address-the-problem-of-long-waits-for-medical-care/article34056251/	
+
+
+CIHI Survey Report	Commonwealth Fund Survey 2016		
+https://www.cihi.ca/en/commonwealth-fund-survey-2016	
+
+Charts and Numbers	How quickly can you see a doctor?		
+https://www.theglobeandmail.com/life/health-and-fitness/health/how-quickly-can-you-see-a-doctor-study-shows-canada-lags-behind-other-nations-on-timelyaccess/article34043606/
+
+
+Highlights Issue	Doctor payments rise
+https://www.theglobeandmail.com/news/national/doctor-costs-rise-37-per-cent-in-2015-while-incomes-stall/article31503411/	2018		
+
+
+
 
 ### Tools
 ArcGIS Online
