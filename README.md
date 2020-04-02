@@ -3,7 +3,10 @@ This Toronto Health Care App can help you find the optimal health care for you.
 
 ## Mission Statement
 
-Having a thorough Database, Smart Geospatial Mapping and Querying and Matching System about Toronto Health Care resources can be vital for every patient in need.
+Canada's motto is a mari usque ad mare (from sea to sea). In our beloved health-care system, sadly, our motto has become a mora usque ad moram (from wait to wait).
+
+But the real challenge we have is not waiting times. It is more fundamental: To provide the right care at the right place at the right time at an affordable price (to individuals and society). To do so, we need vision and we need a system; not just data, but a willingness to act on the data.
+
 
 
 ### Health Care Database
