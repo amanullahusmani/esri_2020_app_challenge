@@ -23,8 +23,29 @@ All the resources used for building the App is open-sourced.
 ### Open Data
 City of Toronto
 
+Hospitals in Toronto region on google maps	https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	2020
+
+Emergency Department (ED)	Toronto Health Profiles,	Toronto Neighbourhoods	http://www.torontohealthprofiles.ca/a_dataTables.php?varTab=HPDtbl	2013-2014	
+
+
+Visits and Length	NACRS and CIHI	NACRS Emergency Department Visits and Length of Stay	https://www.cihi.ca/sites/default/files/document/nacrs-2018-2019-quickstats-en-web_0.xlsx	2018-2019	
+
+Wait Time (paid)	NACRS and CIHI	National Ambulatory Care Reporting System metadata and Canadian Institute for Health Information	https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata				
+
+Wait Time (free)	Priority Procedures	Knee and Hip Replacement	https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada				
+
+Injury and Trauma Stats			http://www.cihi.ca/sites/default/files/document/2017-2018-injury-and-trauma-quick-stats-en-web.xlsx	2017-2018
+
+"Chapter 4 Page 28"	Waits in emergency		https://www.hqontario.ca/portals/0/Documents/pr/measuring-up-2018-en.pdf
+
+"Time Spent in Emergency"			https://www.ontario.ca/page/time-spent-emergency-department			
+
+Doctors Info		CPSO		https://doctors.cpso.on.ca/?search=general	2020	
+
+Median waiting times for specialized services	Median waiting times for specialized services, by type of service.	https://open.canada.ca/data/en/dataset/b783efd5-7be7-4989-942f-a0fcda8d3fb7	2001	
+
 ### Tools
-GIS Online
+ArcGIS Online
 
 ## Team
 Xuyang Han
