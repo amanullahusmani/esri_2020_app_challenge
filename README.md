@@ -11,15 +11,12 @@ With CIHI focusing attention on medical waiting times, you will undoubtedly hear
 
 
 ## App Description & Features
-### Health Care Database
-Health Care Database organizing all health resources available in Toronto can be essential for the patients in need
 
 
-### Smart Mapping
-Geospatial Visualization using GIS Online helps the patients to find the health care available to them
+## User Manual
 
-### Query and Matching System
-The system can assign the patients to the best health care based on their needs
+
+## Video
 
 
 ## App Resources
