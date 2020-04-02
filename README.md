@@ -11,7 +11,7 @@ Check out <a href="https://xuyanghan.github.io/esri_2020_app_challenge/">Web App
 Canada's motto is a mari usque ad mare (from sea to sea). In our beloved health-care system, sadly, our motto has become a mora usque ad moram (from wait to wait).
 
 But the real challenge we have is not waiting times. It is more fundamental: To provide the right care at the right place at the right time at an affordable price (to individuals and society). To do so, we need vision and we need a system; not just data, but a willingness to act on the data.
-
+Canadian patients reported more trouble scoring same-day or next-day appointments with their family doctors than patients in any country but Norway, which tied Canada for last place.
 With CIHI focusing attention on medical waiting times, you will undoubtedly hear that Canada has fewer physicians per capita than other countries – 2.2 per 1,000 population. But you may not hear that Norway, which has an equally lamentable record on same-day access to physicians, has twice as many docs, 4.4 per 1,000. Or that Canada has more physicians, in absolute numbers and per capita, than ever before, with seemingly little impact on access.
 
 
