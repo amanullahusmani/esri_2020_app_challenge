@@ -8,17 +8,39 @@ Check out <a href="https://xuyanghan.github.io/esri_2020_app_challenge/">Web App
 
 ## Mission Statement
 
-Canada's motto is a mari usque ad mare (from sea to sea). In our beloved health-care system, sadly, our motto has become a mora usque ad moram (from wait to wait).
+Smart City is an emerging concept that describes a highly-digitalized urban area. Using technics of electronic Internet of Things (IoT), the City’s data, resources and service can be efficiently collected, stored, managed, accessed and analyzed. The city data digitalization can be very beneficial for its citizens, especially in Healthcare. The healthcare needs of the citizen are very high in volume. But managing this onrush of literally millions of patients has forced the industry to confront significant challenges. And the most fundamental challenge is how to provide the right care at the right place at the right time at an affordable price (to individuals and society). A system containing digitalized Healthcare resources helps the healthcare providers to promote their services as well as helping the patients to find the needed health care. Healthcare resources digital transformation builds this bridge between the healthcare providers and payers. 
 
-But the real challenge we have is not waiting times. It is more fundamental: To provide the right care at the right place at the right time at an affordable price (to individuals and society). To do so, we need vision and we need a system; not just data, but a willingness to act on the data.
-Canadian patients reported more trouble scoring same-day or next-day appointments with their family doctors than patients in any country but Norway, which tied Canada for last place.
-With CIHI focusing attention on medical waiting times, you will undoubtedly hear that Canada has fewer physicians per capita than other countries – 2.2 per 1,000 population. But you may not hear that Norway, which has an equally lamentable record on same-day access to physicians, has twice as many docs, 4.4 per 1,000. Or that Canada has more physicians, in absolute numbers and per capita, than ever before, with seemingly little impact on access.
+Living in the age of digitalization, every aspect of care delivery and operations has been changed from the past. This generation of patients is not willing to spend time on traditional processes of searching. Instead, they want immediate access to the right healthcare service, professional doctors and results. They do not want to waste time going to the wrong services. They want price transparency and supporting data to help make healthcare decisions. So, it’s important to have a system enabling smarter choices and better utilization of time and resources. 
+
+This application is expected to step ahead closer to the digital smart city. The team members organize the data from many various resources and generate a healthcare database for the Toronto citizens. Taking advantage of Esri’s smart mapping GIS Online system, this application’s goal is to provide a healthcare querying platform, improving Toronto citizens’ experience of looking for health care that in need. Using our app, the patients will have clear information that which hospital/clinic should they go to, what’s the healthcare capacity and how long they will expect to wait before seeing a doctor. 
 
 
 ## App Description & Features
+1. Healthcare Resources Digitalization
+
+Healthcare Database organizing all healthcare resources available in Toronto can assist the patients in need to find the optimal service based on their needs. 
+
+2. Geospatial Visualization and Mapping
+
+Geospatial Visualization using GIS Online shows data on the map, supporting the analysis of geospatial data through the use of interactive visualization.
+
+3. Data Query and Visual Analytics 
+
+The patients can customize the filter to find the most desired health care and get comprehensive information about healthcare through the provided dashboard. 
 
 
 ## User Manual
+1. Specified Healthcare
+
+The patients can find the most desired healthcare by filtering the service category, waiting time, healthcare capacity, accessibility, ratings, and distances. 
+
+2. Location Intelligence
+
+Location services are available to the patients. They can find desired healthcare within the corresponding input location and distance. Directions are also provided. 
+
+3. Visual Analytics 
+
+Users can get comprehensive information about the healthcare services including the average waiting time to see a doctor, average time spends in the hospital, number of patients and doctors in the hospital.  
 
 
 ## Video
@@ -43,22 +65,23 @@ All the resources used for building the App is open-sourced.
 | Wait time in ED "Chapter 4 Page 28" |  [link](https://www.hqontario.ca/portals/0/Documents/pr/measuring-up-2018-en.pdf) | 2018 |
 | Time Spent in Emergency |  [link](https://www.ontario.ca/page/time-spent-emergency-department) | 2019 |
 
-
-### Articles
-
-|     Article     |      Source      |  Year |
-|----------|-------------|------|
-| The real challenge to Canada’s health system |   [link](https://www.theglobeandmail.com/opinion/canada-must-address-the-problem-of-long-waits-for-medical-care/article34056251/)  | 2017 |
-| Commonwealth Fund Survey 	 |   [link](https://www.cihi.ca/en/commonwealth-fund-survey-2016	) |2016  |
-|Charts and Numbers 	 |   [link](https://www.theglobeandmail.com/life/health-and-fitness/health/how-quickly-can-you-see-a-doctor-study-shows-canada-lags-behind-other-nations-on-timelyaccess/article34043606/	) |2016  |
-| Highlights Issue Doctor payments rise 	 |   [link](https://www.theglobeandmail.com/news/national/doctor-costs-rise-37-per-cent-in-2015-while-incomes-stall/article31503411/) |2018  |
-
-
-
 ### Tools
-ArcGIS Online
+* <a href="https://www.arcgis.com/home/ ">ArcGIS Online</a>
+* <a href="https://jupyter.org/ ">Jupyter Notebook</a>
 
 ## Team
-* Xuyang Han: Data Scientist and Full-stack Developer
-* Aman Ullah: Software, Geomatics and Data Engineer
-* Amirhossein: Software, Geomatics and Data Engineer
+* Xuyang Han: Data Scientist and Full-stack Developer, han978@yorku.ca
+* Aman Ullah: Software, Geomatics and Data Engineer, usmani@yorku.ca
+* Amirhossein: Software, Geomatics and Data Engineer, amirnbr@yorku.ca
+
+## References
+
+|     Article     |      Source      | 
+|----------|-------------|
+| The real challenge to Canada’s health system |   [link](https://www.theglobeandmail.com/opinion/canada-must-address-the-problem-of-long-waits-for-medical-care/article34056251/)  | 
+| Commonwealth Fund Survey 	 |   [link](https://www.cihi.ca/en/commonwealth-fund-survey-2016	) |
+|Charts and Numbers 	 |   [link](https://www.theglobeandmail.com/life/health-and-fitness/health/how-quickly-can-you-see-a-doctor-study-shows-canada-lags-behind-other-nations-on-timelyaccess/article34043606/	) |
+| Highlights Issue Doctor payments rise 	 |   [link](https://www.theglobeandmail.com/news/national/doctor-costs-rise-37-per-cent-in-2015-while-incomes-stall/article31503411/) |
+| The Digitization of Healthcare 	 |   [link](https://www.cisco.com/c/dam/en_us/solutions/industries/docs/digitization-healthcare.pdf) |
+| The Healthcare Database: Purposes, Strengths, and Weaknesses 	 |   [link](https://www.healthcatalyst.com/insights/healthcare-database-purposes-strengths-weaknesses) |
+| Smart city  |   [link](https://en.wikipedia.org/wiki/Smart_city) |
