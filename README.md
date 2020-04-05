@@ -35,9 +35,9 @@ Firstly, the patients can query the data by customizing the filter to find the m
 
 The patients can find the most desired healthcare by filtering the service category, waiting time, healthcare capacity, accessibility, ratings, and distances. 
 
-a. The dashboard shows hospital data and clinic data. Firstly, the user needs to decide which kind of service he/she would like to choose. Click the layers icon   to choose layer and data layers will show at dropdown. Check the desired service later and uncheck the wrong one. 
+a. The dashboard shows hospital data and clinic data. Firstly, the user needs to decide which kind of service he/she would like to choose. Click the layers icon ![alt text](https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/layers-icon.png "layers icon")  to choose layer and data layers will show at dropdown. Check the desired service later and uncheck the wrong one. 
 
-b. Then the users can specify the filters to find the most desired healthcare. Click the filters icon , and then the filters will be shown at dropdown. Choose the right filter, you will see a list of criteria where texts can be input. For example, if you want to find emergency services, you can simply input ‘emergency’ in the first textbox and turn on this filter. The desired results will be shown on the map.   
+b. Then the users can specify the filters to find the most desired healthcare. Click the filters icon ![alt text](https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/filter-icon.png "filter icon")  , and then the filters will be shown at dropdown. Choose the right filter, you will see a list of criteria where texts can be input. For example, if you want to find emergency services, you can simply input ‘emergency’ in the first textbox and turn on this filter. The desired results will be shown on the map.   
 
 2. Location Intelligence
 
