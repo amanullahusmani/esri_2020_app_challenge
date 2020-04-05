@@ -49,14 +49,23 @@ Users can get comprehensive information about the healthcare services including 
 
 1.	By default, the dashboard shows all hospital data in Toronto, Ontario. 
 
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/1.PNG'>
+
 2.	You may choose a specific hospital to study its data in detail by clicking it and hospitals are shown in the dropdown. 
+
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/2.PNG'>
 
 3.	The average waiting time before first assessed by a doctor, the average time in the emergency is shown here. 
 
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/3.PNG'>
+
 4.	The number of patients in each emergency cases over time is shown below. 
+
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/4.PNG'>
 
 5.	The average waiting time in each emergency case (in hours) are shown below. 
 
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/5.PNG'>
 
 ## Video
 
@@ -93,9 +102,9 @@ Xuyang Han is a Master student in the Department of Earth and Space Science Engi
 
 Aman is a candidate for Master studies in department of Earth & Space Science Engineering at York University. After completing his undergrad in Computer Science, he joined the software development industry and polished skill set in Game Development. In 2018, he started research study with focused towards BIM, GIS and IoT oriented integrated system for smart cities application. Furthermore, his core skills is programming with best practices, and interests of software architectural designs, planning, development, analysis and optimization.
 
-* Amirhossein: Software, Geomatics and Data Engineer, amirnbr@yorku.ca
+* Amirhossein Nourbakhsh: Software, Geomatics and Data Engineer, amirnbr@yorku.ca
 
-Amir is a candidate for Master studies in department of Earth & Space Science Engineering at York University. 
+Amirhossein is a Master student in the Department of Earth and Space Science Engineering at York University. Experienced Computer Vision, Deep Learning, Network Analysis with a focus on Location Based Services .Skilled at Java, Node.js, MongoDB. Self-motivated and determined type which always ready to face the challenges with a problem-solving manner. try hard to stay away from the unhealthy and disturbing status quo of the society and do best to find ways to upgrade people and life to a higher level. 
 
 ## References
 
