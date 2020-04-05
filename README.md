@@ -47,6 +47,16 @@ Location services are available to the patients. They can find desired healthcar
 
 Users can get comprehensive information about the healthcare services including the average waiting time to see a doctor, average time spends in the hospital, number of patients and doctors in the hospital.  
 
+1.	By default, the dashboard shows all hospital data in Toronto, Ontario. 
+
+2.	You may choose a specific hospital to study its data in detail by clicking it and hospitals are shown in the dropdown. 
+
+3.	The average waiting time before first assessed by a doctor, the average time in the emergency is shown here. 
+
+4.	The number of patients in each emergency cases over time is shown below. 
+
+5.	The average waiting time in each emergency case (in hours) are shown below. 
+
 
 ## Video
 
