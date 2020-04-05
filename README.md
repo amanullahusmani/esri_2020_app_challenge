@@ -49,14 +49,23 @@ Users can get comprehensive information about the healthcare services including 
 
 1.	By default, the dashboard shows all hospital data in Toronto, Ontario. 
 
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/1.PNG'>
+
 2.	You may choose a specific hospital to study its data in detail by clicking it and hospitals are shown in the dropdown. 
+
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/2.PNG'>
 
 3.	The average waiting time before first assessed by a doctor, the average time in the emergency is shown here. 
 
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/3.PNG'>
+
 4.	The number of patients in each emergency cases over time is shown below. 
+
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/4.PNG'>
 
 5.	The average waiting time in each emergency case (in hours) are shown below. 
 
+<img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/5.PNG'>
 
 ## Video
 
