@@ -17,19 +17,25 @@ This application is expected to step ahead closer to the digital smart city. The
 
 ## App Description & Features
 1. Healthcare Resources Digitalization
+
 Healthcare Database organizing all healthcare resources available in Toronto can assist the patients in need to find the optimal service based on their needs. 
 2. Geospatial Visualization and Mapping
+
 Geospatial Visualization using GIS Online shows data on the map, supporting the analysis of geospatial data through the use of interactive visualization.
 3. Data Query and Visual Analytics 
+
 The patients can customize the filter to find the most desired health care and get comprehensive information about healthcare through the provided dashboard. 
 
 
 ## User Manual
-1. Specified Healthcare  
+1. Specified Healthcare
+
 The patients can find the most desired healthcare by filtering the service category, waiting time, healthcare capacity, accessibility, ratings, and distances. 
 2. Location Intelligence
+
 Location services are available to the patients. They can find desired healthcare within the corresponding input location and distance. Directions are also provided. 
 3. Visual Analytics 
+
 Users can get comprehensive information about the healthcare services including the average waiting time to see a doctor, average time spends in the hospital, number of patients and doctors in the hospital.  
 
 
