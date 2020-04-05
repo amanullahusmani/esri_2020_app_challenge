@@ -41,7 +41,7 @@ b. Then the users can specify the filters to find the most desired healthcare. C
 
 2. Location Intelligence
 
-Location services are available to the patients. They can find desired healthcare within the corresponding input location and distance. Directions are also provided. 
+Location services are available to the patients. They can find desired healthcare within the corresponding input location and distance. Click the near me icon ![alt text](https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/nearme-icon.png "near me icon")  , users have three options to search features near a location (1. Put the address in textbox. 2. Locate yourself 3. Place a marker on the map). Then users need to select a radius by the slide bar. The desired results will be shown on the map and the dropdown list.  Directions are also provided to the user so they can know how to go there.  
 
 3. Visual Analytics 
 
