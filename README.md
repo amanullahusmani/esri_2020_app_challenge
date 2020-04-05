@@ -31,17 +31,31 @@ Firstly, the patients can query the data by customizing the filter to find the m
 
 
 ## User Manual
-1. Specified Healthcare
+### Specified Healthcare
 
 The patients can find the most desired healthcare by filtering the service category, waiting time, healthcare capacity, accessibility, ratings, and distances. 
 
-2. Location Intelligence
+1. The dashboard shows hospital data and clinic data. Firstly, the user needs to decide which kind of service he/she would like to choose. Click the layers icon <img src="https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/layers-icon.png" alt="drawing" width="20"/> to choose layer and data layers will show at dropdown. Check the desired service later and uncheck the wrong one. 
 
-Location services are available to the patients. They can find desired healthcare within the corresponding input location and distance. Directions are also provided. 
+2. Then the users can specify the filters to find the most desired healthcare. Click the filters icon <img src="https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/filter-icon.png" alt="drawing" width="20"/>, and then the filters will be shown at dropdown. Choose the right filter, you will see a list of criteria where texts can be input. For example, if you want to find emergency services, you can simply input ‘emergency’ in the first textbox and turn on this filter. The desired results will be shown on the map.   
 
-3. Visual Analytics 
+### Location Intelligence
+
+Location services are available to the patients. They can find desired healthcare within the corresponding input location and distance. Click the near me icon <img src="https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/nearme-icon.png" alt="drawing" width="20"/>, users have three options to search features near a location (1. Put the address in textbox. 2. Locate yourself 3. Place a marker on the map). Then users need to select a radius by the slide bar. The desired results will be shown on the map and the dropdown list.  Directions are also provided to the user so they can know how to go there.  
+
+### Visual Analytics 
 
 Users can get comprehensive information about the healthcare services including the average waiting time to see a doctor, average time spends in the hospital, number of patients and doctors in the hospital.  
+
+1.	By default, the dashboard shows all hospital data in Toronto, Ontario. 
+
+2.	You may choose a specific hospital to study its data in detail by clicking it and hospitals are shown in the dropdown. 
+
+3.	The average waiting time before first assessed by a doctor, the average time in the emergency is shown here. 
+
+4.	The number of patients in each emergency cases over time is shown below. 
+
+5.	The average waiting time in each emergency case (in hours) are shown below. 
 
 
 ## Video
