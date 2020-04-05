@@ -69,9 +69,9 @@ All the resources used for building the App is open-sourced.
 ArcGIS Online
 
 ## Team
-* Xuyang Han: Data Scientist and Full-stack Developer
-* Aman Ullah: Software, Geomatics and Data Engineer
-* Amirhossein: Software, Geomatics and Data Engineer
+* Xuyang Han: Data Scientist and Full-stack Developer, han978@yorku.ca
+* Aman Ullah: Software, Geomatics and Data Engineer, usmani@yorku.ca
+* Amirhossein: Software, Geomatics and Data Engineer, amirnbr@yorku.ca
 
 ## References
 
