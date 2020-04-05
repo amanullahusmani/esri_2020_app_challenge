@@ -66,7 +66,8 @@ All the resources used for building the App is open-sourced.
 | Time Spent in Emergency |  [link](https://www.ontario.ca/page/time-spent-emergency-department) | 2019 |
 
 ### Tools
-ArcGIS Online
+* <a href="https://www.arcgis.com/home/ ">ArcGIS Online</a>
+* <a href="https://jupyter.org/ ">Jupyter Notebook</a>
 
 ## Team
 * Xuyang Han: Data Scientist and Full-stack Developer, han978@yorku.ca
