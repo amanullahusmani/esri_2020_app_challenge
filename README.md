@@ -68,7 +68,8 @@ Users can get comprehensive information about the healthcare services including 
 <img src='https://raw.githubusercontent.com/xuyangHan/esri_2020_app_challenge/master/images/5.PNG'>
 
 ## Video
-https://youtu.be/AT9L-u9FLxw
+
+Please check the <a href="https://youtu.be/AT9L-u9FLxw">demo video </a>of the application. 
 
 ## App Resources
 All the resources used for building the App is open-sourced.
