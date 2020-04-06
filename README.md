@@ -69,6 +69,7 @@ Users can get comprehensive information about the healthcare services including 
 
 ## Video
 
+Please check the <a href="https://youtu.be/AT9L-u9FLxw">demo video </a>of the application. 
 
 ## App Resources
 All the resources used for building the App is open-sourced.
